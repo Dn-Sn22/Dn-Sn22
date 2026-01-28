@@ -1,6 +1,9 @@
-Hi, I'm Dalen 👋  
-I'm currently studying the Data Analyst stack (Power BI, PostgreSQL, Excel)  
+#Hi, I'm Dalen 👋  
+
+I'm currently studying the Data Analyst stack (PowerBI, PostgreSQL)  
 and gradually expanding into Data Science through Python and ML projects.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dn_sn0_o) 
