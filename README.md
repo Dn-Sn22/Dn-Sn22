@@ -1,6 +1,6 @@
 # Hi, I'm Dalen 👋  
 
-I'm currently studying the Data Analyst stack (PowerBI, PostgreSQL)  
+I'm currently studying the Data Analyst stack (PowerBI, PostgreSQL, Excel, Pandas)  
 and gradually expanding into Data Science through Python and ML projects.
 
 
