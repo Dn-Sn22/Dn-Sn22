@@ -14,7 +14,7 @@
 ### 📌 Текущие проекты
 -  Детекция и подсчёт людей на видео (YOLOv8)
 -  Суммаризация текста (HuggingFace, BART)
--  Торговый бот для Binance (Python, asyncio, risk management, LSTM в разработке)
+-  Торговый бот для Binance RegimeLab (Python, asyncio, risk management, LSTM в разработке)
 -  KazAgent Layer — agent-native инфраструктура для казахстанского SMB (сверка платежей, Kaspi/1C), в разработке
 -  Классификация изображений + Telegram-бот (CNN)
 -  Предсказание цен на недвижимость (Pandas + sklearn)
